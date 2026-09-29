@@ -24,6 +24,7 @@
 #include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
+#include <stdint.h>
 /* USER CODE BEGIN Includes */
 
 /* USER CODE END Includes */
